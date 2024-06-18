@@ -9,7 +9,7 @@ Send the assignment to: [ishan.b@octobotics.tech](ishan.b@octobotics.tech)
 
 
 
-### Added Code and how to run it
+### Added package and how to run it
 
 To run this clone the repository and then first run origianl code 
  ```bash
